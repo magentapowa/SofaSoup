@@ -1,5 +1,4 @@
 # ___Welcome to SofaSoup
-____________________________________________________________________
 ***SofaSoup is about bringing people together through music.***
 
 Musician or not, you can come here to find or post events about jam sessions.
@@ -13,6 +12,7 @@ with their instruments to jam. Saxophones, guitars, keyboards they are all welco
 
 ____________________________________________________________________
 **How SofaSoup operates.**
+
 	There are 4 different user levels:
 		- Padawan
 		- Jedi
