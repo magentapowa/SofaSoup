@@ -1,4 +1,4 @@
-#___Welcome to SofaSoup
+# ___Welcome to SofaSoup
 ____________________________________________________________________
 SofaSoup is about bringing people together through music.
 
@@ -13,12 +13,12 @@ with their instruments to jam. Saxophones, guitars, keyboards they are all welco
 
 **How SofaSoup operates.**
 ____________________________________________________________________
-	There are 4 different user levels:
-		- Padawan
-		- Jedi
-		- Council Member
-		- master Yoda
-	each has access to different options.
+There are 4 different user levels:
+	- Padawan
+	- Jedi
+	- Council Member
+	- master Yoda
+each has access to different options.
 
 * As a Padawan you can just browse events posted by other users and save them to your 
 profiles save list.
