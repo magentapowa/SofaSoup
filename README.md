@@ -1,4 +1,4 @@
-___Welcome to SofaSoup
+#___Welcome to SofaSoup
 ____________________________________________________________________
 SofaSoup is about bringing people together through music.
 
@@ -11,8 +11,8 @@ Events from all sides of the music spectrum are welcome. A bunch of people that 
 with their instruments to jam. Saxophones, guitars, keyboards they are all welcome, hence the 
 `Soup`, if it makes a sound you can bring it.
 
-How SofaSoup operates. 
-----------------------
+**How SofaSoup operates.**
+____________________________________________________________________
 	There are 4 different user levels:
 		- Padawan
 		- Jedi
@@ -20,14 +20,14 @@ How SofaSoup operates.
 		- master Yoda
 	each has access to different options.
 
-> As a Padawan you can just browse events posted by other users and save them to your 
+* As a Padawan you can just browse events posted by other users and save them to your 
 profiles save list.
-> Having gained some experience you become a Jedi, with that comes the ability to post 
+* Having gained some experience you become a Jedi, with that comes the ability to post 
 new events.
-> Time, experience and hard work can get you a seat to the council table. As a council 
+* Time, experience and hard work can get you a seat to the council table. As a council 
 Member you have the authority to delete posts by other users that violate our 
 code of ethics.
-> Master Yoda is here to oversee all operations. He can do pretty much anything because..
+* Master Yoda is here to oversee all operations. He can do pretty much anything because..
 well..he is awesome.
 
 
