@@ -1,0 +1,212 @@
+4/23/2018 6:14:59 PM - New session initialized.
+4/23/2018 6:15:01 PM - Server error.
+4/23/2018 6:15:01 PM - Session terminated.
+
+4/23/2018 6:16:28 PM - New session initialized.
+4/23/2018 6:16:45 PM - User loged in(userID:12)
+4/23/2018 6:16:45 PM - Retrieving users personal data from server.
+4/23/2018 6:49:05 PM - User logged out
+4/23/2018 6:49:06 PM - Session terminated.
+
+4/23/2018 7:42:22 PM - New session initialized.
+4/23/2018 7:42:32 PM - User loged in(userID:12)
+4/23/2018 7:42:32 PM - Retrieving users personal data from server.
+4/23/2018 7:43:02 PM - User deleted event(eventID:2)
+4/23/2018 7:43:05 PM - User added event to saves(eventID:4)
+4/23/2018 7:43:06 PM - User removed event from saves(eventID:4)
+4/23/2018 7:43:08 PM - User deleted event(eventID:4)
+4/23/2018 7:43:11 PM - User removed event from saves(eventID:11)
+4/23/2018 7:43:14 PM - User removed event from saves(eventID:11)
+4/23/2018 7:43:15 PM - User removed event from saves(eventID:11)
+4/23/2018 7:43:24 PM - User deleted event(eventID:12)
+4/23/2018 7:43:26 PM - User removed event from saves(eventID:11)
+4/23/2018 7:43:27 PM - User removed event from saves(eventID:11)
+4/23/2018 7:46:03 PM - User removed event from saves(eventID:9)
+4/23/2018 7:46:06 PM - User added event to saves(eventID:8)
+4/23/2018 7:46:09 PM - User removed event from saves(eventID:8)
+4/23/2018 7:46:12 PM - User removed event from saves(eventID:9)
+4/23/2018 7:46:19 PM - User removed event from saves(eventID:9)
+4/23/2018 7:46:45 PM - User removed event from saves(eventID:9)
+4/23/2018 7:46:52 PM - User added event to saves(eventID:9)
+4/23/2018 7:46:56 PM - User removed event from saves(eventID:9)
+4/23/2018 7:46:58 PM - User removed event from saves(eventID:11)
+4/23/2018 7:47:02 PM - User removed event from saves(eventID:11)
+4/23/2018 7:47:18 PM - User added event to saves(eventID:9)
+4/23/2018 7:47:20 PM - User added event to saves(eventID:13)
+4/23/2018 7:48:20 PM - User removed event from saves(eventID:9)
+4/23/2018 7:48:25 PM - User removed event from saves(eventID:11)
+4/23/2018 7:48:31 PM - User removed event from saves(eventID:11)
+4/23/2018 7:48:46 PM - User removed event from saves(eventID:11)
+4/23/2018 7:48:48 PM - User removed event from saves(eventID:11)
+4/23/2018 7:48:49 PM - User removed event from saves(eventID:11)
+4/23/2018 7:48:54 PM - User logged out
+4/23/2018 7:48:55 PM - Session terminated.
+
+4/23/2018 7:49:02 PM - New session initialized.
+4/23/2018 7:49:05 PM - User loged in(userID:12)
+4/23/2018 7:49:05 PM - Retrieving users personal data from server.
+4/23/2018 7:50:24 PM - User removed event from saves(eventID:13)
+4/23/2018 7:50:54 PM - New session initialized.
+4/23/2018 7:50:59 PM - User loged in(userID:12)
+4/23/2018 7:50:59 PM - Retrieving users personal data from server.
+4/23/2018 7:51:08 PM - User added event to saves(eventID:11)
+4/23/2018 7:51:33 PM - User removed event from saves(eventID:11)
+4/23/2018 7:51:41 PM - User added event to saves(eventID:7)
+4/23/2018 7:51:43 PM - User added event to saves(eventID:8)
+4/23/2018 7:51:44 PM - User added event to saves(eventID:9)
+4/23/2018 7:51:45 PM - User added event to saves(eventID:11)
+4/23/2018 7:51:46 PM - User added event to saves(eventID:13)
+4/23/2018 7:52:02 PM - User removed event from saves(eventID:7)
+4/23/2018 7:52:02 PM - User added event to saves(eventID:7)
+4/23/2018 7:52:05 PM - User removed event from saves(eventID:7)
+4/23/2018 7:52:07 PM - User removed event from saves(eventID:8)
+4/23/2018 7:52:07 PM - User removed event from saves(eventID:9)
+4/23/2018 7:52:09 PM - User removed event from saves(eventID:11)
+4/23/2018 7:52:10 PM - User removed event from saves(eventID:13)
+4/23/2018 7:53:36 PM - User logged out
+4/23/2018 7:53:37 PM - Session terminated.
+
+4/24/2018 8:45:32 AM - New session initialized.
+4/24/2018 8:45:33 AM - Server error.
+4/24/2018 8:45:33 AM - Session terminated.
+
+4/24/2018 8:46:03 AM - New session initialized.
+4/24/2018 8:46:15 AM - User loged in(userID:12)
+4/24/2018 8:46:15 AM - Retrieving users personal data from server.
+4/24/2018 8:46:32 AM - User logged out
+4/24/2018 8:46:33 AM - Session terminated.
+
+4/24/2018 9:00:40 PM - New session initialized.
+4/24/2018 9:03:26 PM - User loged in(userID:12)
+4/24/2018 9:03:26 PM - Retrieving users personal data from server.
+4/24/2018 9:04:53 PM - User added event to saves(eventID:13)
+4/24/2018 9:09:27 PM - User logged out
+4/24/2018 9:09:34 PM - User loged in(userID:4)
+4/24/2018 9:09:34 PM - Retrieving users personal data from server.
+4/24/2018 9:11:21 PM - User deleted user(userID:18)
+4/24/2018 9:11:21 PM - User deleted users(userID:18) event(eventID:13
+4/24/2018 9:14:12 PM - User created event(eventID:14)
+4/24/2018 9:14:46 PM - User added event to saves(eventID:9)
+4/24/2018 9:15:41 PM - User logged out
+4/24/2018 9:22:01 PM - New session initialized.
+4/24/2018 9:22:11 PM - User loged in(userID:12)
+4/24/2018 9:22:11 PM - Retrieving users personal data from server.
+4/24/2018 9:22:13 PM - User logged out
+4/24/2018 9:22:45 PM - New session initialized.
+4/24/2018 9:23:33 PM - Session terminated.
+
+4/24/2018 9:23:39 PM - New session initialized.
+4/24/2018 9:24:09 PM - New user signed up(userID:19)
+4/24/2018 9:24:09 PM - Retrieving users personal data from server.
+4/24/2018 9:24:12 PM - User logged out
+4/24/2018 9:24:36 PM - Session terminated.
+
+4/24/2018 9:41:35 PM - New session initialized.
+4/24/2018 9:41:38 PM - User loged in(userID:12)
+4/24/2018 9:41:38 PM - Retrieving users personal data from server.
+4/24/2018 9:44:35 PM - User logged out
+4/24/2018 9:44:49 PM - New user signed up(userID:20)
+4/24/2018 9:44:49 PM - Retrieving users personal data from server.
+4/24/2018 9:45:15 PM - User logged out
+4/24/2018 9:45:16 PM - Session terminated.
+
+4/25/2018 6:08:39 PM - New session initialized.
+4/25/2018 6:10:01 PM - New user signed up(userID:21)
+4/25/2018 6:10:01 PM - Retrieving users personal data from server.
+4/25/2018 6:10:31 PM - User logged out
+4/25/2018 6:10:33 PM - User loged in(userID:12)
+4/25/2018 6:10:33 PM - Retrieving users personal data from server.
+4/25/2018 6:11:01 PM - User logged out
+4/25/2018 6:11:04 PM - User loged in(userID:12)
+4/25/2018 6:11:04 PM - Retrieving users personal data from server.
+4/25/2018 6:11:08 PM - User logged out
+4/25/2018 6:11:10 PM - Session terminated.
+
+4/25/2018 6:42:17 PM - New session initialized.
+4/25/2018 6:42:22 PM - User loged in(userID:12)
+4/25/2018 6:42:22 PM - Retrieving users personal data from server.
+4/25/2018 6:42:37 PM - User deleted user(userID:13)
+4/25/2018 6:42:49 PM - User logged out
+4/25/2018 6:42:59 PM - New user signed up(userID:22)
+4/25/2018 6:42:59 PM - Retrieving users personal data from server.
+4/25/2018 6:43:02 PM - User logged out
+4/25/2018 6:43:23 PM - User loged in(userID:12)
+4/25/2018 6:43:23 PM - Retrieving users personal data from server.
+4/25/2018 6:43:28 PM - User promoted/demoted user(userID:15) to level Jedi)
+4/25/2018 6:43:30 PM - User logged out
+4/25/2018 6:45:28 PM - User loged in(userID:12)
+4/25/2018 6:45:28 PM - Retrieving users personal data from server.
+4/25/2018 6:50:31 PM - New session initialized.
+4/25/2018 6:50:34 PM - User loged in(userID:12)
+4/25/2018 6:50:34 PM - Retrieving users personal data from server.
+4/25/2018 6:52:24 PM - New session initialized.
+4/25/2018 6:52:32 PM - New session initialized.
+4/25/2018 6:52:59 PM - New session initialized.
+4/25/2018 6:54:34 PM - New session initialized.
+4/25/2018 6:55:16 PM - New session initialized.
+4/25/2018 6:55:20 PM - User loged in(userID:12)
+4/25/2018 6:55:20 PM - Retrieving users personal data from server.
+4/25/2018 6:57:12 PM - New session initialized.
+4/25/2018 6:57:15 PM - User loged in(userID:12)
+4/25/2018 6:57:15 PM - Retrieving users personal data from server.
+4/25/2018 6:57:35 PM - User logged out
+4/25/2018 6:57:35 PM - Session terminated.
+
+4/25/2018 7:00:04 PM - New session initialized.
+4/25/2018 7:00:07 PM - User loged in(userID:12)
+4/25/2018 7:00:07 PM - Retrieving users personal data from server.
+4/25/2018 7:01:59 PM - New session initialized.
+4/25/2018 7:02:03 PM - User loged in(userID:12)
+4/25/2018 7:02:03 PM - Retrieving users personal data from server.
+4/25/2018 7:17:05 PM - New session initialized.
+4/25/2018 7:17:17 PM - User loged in(userID:12)
+4/25/2018 7:17:17 PM - Retrieving users personal data from server.
+4/25/2018 7:17:27 PM - User deleted event(eventID:11)
+4/25/2018 7:17:48 PM - User added event to saves(eventID:7)
+4/25/2018 7:17:49 PM - User removed event from saves(eventID:7)
+4/25/2018 7:17:52 PM - User added event to saves(eventID:17)
+4/25/2018 7:18:02 PM - User added event to saves(eventID:18)
+4/25/2018 7:18:40 PM - User logged out
+4/25/2018 7:18:41 PM - Session terminated.
+
+4/25/2018 7:21:18 PM - New session initialized.
+4/25/2018 7:21:21 PM - User loged in(userID:12)
+4/25/2018 7:21:21 PM - Retrieving users personal data from server.
+4/25/2018 7:21:46 PM - User logged out
+4/25/2018 7:21:47 PM - Session terminated.
+
+4/25/2018 7:56:17 PM - New session initialized.
+4/25/2018 7:56:23 PM - User loged in(userID:12)
+4/25/2018 7:56:23 PM - Retrieving users personal data from server.
+4/25/2018 7:56:38 PM - User logged out
+4/25/2018 7:56:39 PM - Session terminated.
+
+4/25/2018 8:00:43 PM - New session initialized.
+4/25/2018 8:01:00 PM - Server error.
+4/25/2018 8:01:00 PM - Session terminated.
+
+4/25/2018 8:01:32 PM - New session initialized.
+4/25/2018 8:01:42 PM - Server error.
+4/25/2018 8:01:42 PM - Session terminated.
+
+4/26/2018 2:17:56 PM - New session initialized.
+4/26/2018 2:18:02 PM - User loged in(userID:2)
+4/26/2018 2:18:02 PM - Retrieving users personal data from server.
+4/26/2018 2:18:30 PM - User logged out
+4/26/2018 2:18:47 PM - New user signed up(userID:6)
+4/26/2018 2:18:47 PM - Retrieving users personal data from server.
+4/26/2018 2:18:50 PM - User logged out
+4/26/2018 2:18:50 PM - Session terminated.
+
+4/26/2018 2:43:39 PM - New session initialized.
+4/26/2018 2:43:44 PM - User loged in(userID:12)
+4/26/2018 2:43:44 PM - Retrieving users personal data from server.
+4/26/2018 2:43:59 PM - User logged out
+4/26/2018 2:44:00 PM - Session terminated.
+
+4/26/2018 2:53:50 PM - New session initialized.
+4/26/2018 2:53:53 PM - User loged in(userID:12)
+4/26/2018 2:53:53 PM - Retrieving users personal data from server.
+4/26/2018 2:54:01 PM - User logged out
+4/26/2018 2:54:02 PM - Session terminated.
+

@@ -1,0 +1,18 @@
+Specs:
+-----------------------------------------
+	Levels:
+	-------
+	- Padawan  			: can view 'Soup'   
+						  and save events.
+
+	- Jedi				: can view 'Soup',  
+						  save and create events.
+
+	- Council Member	: can view 'Soup',  
+						  save and create events, 
+						  delete other users events.
+
+	- master Yoda		: can view 'Soup',  
+	 (super admin)		  save and create events,  
+						  delete other users events,  
+						  delete, promote/demote users.
