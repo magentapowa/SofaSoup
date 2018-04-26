@@ -14,11 +14,10 @@ with their instruments to jam. Saxophones, guitars, keyboards they are all welco
 **How SofaSoup operates.**
 ____________________________________________________________________
 There are 4 different user levels:
-- Padawan
-- Jedi
-- Council Member
-- master Yoda
-each has access to different options.
+  - Padawan
+  - Jedi
+  - Council Member
+  - master Yoda
 
 * As a Padawan you can just browse events posted by other users and save them to your 
 profiles save list.
