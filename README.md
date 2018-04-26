@@ -1,6 +1,6 @@
 # ___Welcome to SofaSoup
 ____________________________________________________________________
-SofaSoup is about bringing people together through music.
+***SofaSoup is about bringing people together through music.***
 
 Musician or not, you can come here to find or post events about jam sessions.
 We focus mainly on jam sessions organised at private properties(houses, yards, garages), 
@@ -13,11 +13,11 @@ with their instruments to jam. Saxophones, guitars, keyboards they are all welco
 
 ____________________________________________________________________
 **How SofaSoup operates.**
-There are 4 different user levels:
-	- Padawan
- 	- Jedi
-	- Council Member
-	- master Yoda
+	There are 4 different user levels:
+		- Padawan
+		- Jedi
+		- Council Member
+		- master Yoda
 
 * As a Padawan you can just browse events posted by other users and save them to your 
 profiles save list.
