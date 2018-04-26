@@ -11,13 +11,13 @@ Events from all sides of the music spectrum are welcome. A bunch of people that 
 with their instruments to jam. Saxophones, guitars, keyboards they are all welcome, hence the 
 `Soup`, if it makes a sound you can bring it.
 
-**How SofaSoup operates.**
 ____________________________________________________________________
+**How SofaSoup operates.**
 There are 4 different user levels:
-  - Padawan
-  - Jedi
-  - Council Member
-  - master Yoda
+	- Padawan
+ 	- Jedi
+	- Council Member
+	- master Yoda
 
 * As a Padawan you can just browse events posted by other users and save them to your 
 profiles save list.
