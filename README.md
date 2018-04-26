@@ -1,4 +1,5 @@
-___Welcome to SofaSoup____________________________________________________________________
+___Welcome to SofaSoup
+____________________________________________________________________
 SofaSoup is about bringing people together through music.
 
 Musician or not, you can come here to find or post events about jam sessions.
