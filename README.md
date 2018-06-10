@@ -10,6 +10,9 @@ Events from all sides of the music spectrum are welcome. A bunch of people that 
 with their instruments to jam. Saxophones, guitars, keyboards they are all welcome, hence the 
 `Soup`, if it makes a sound you can bring it.
 
+
+![Home Page](https://github.com/magentapowa/SofaSoup/blob/master/Home.png)
+
 ____________________________________________________________________
 **How SofaSoup operates.**
 
