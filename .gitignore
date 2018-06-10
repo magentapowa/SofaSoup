@@ -217,3 +217,7 @@ FakesAssemblies/
 _Pvt_Extensions
 
 SofaSoup/AppData/log\.txt
+
+SofaSoup/app\.config
+
+\.DS_Store
